@@ -37,7 +37,7 @@
 			<hr class="mb-5">
 			
 			<!-- НАЧАЛО: Карточка голосования ------------------------------------->
-			@foreach(votes as $vote)
+			@foreach($votes as $vote)
 			<div class="card border-info mb-4">
 				<!-- НАЧАЛО: Шапка карточки -->
 				<div class="card-header border-info">
