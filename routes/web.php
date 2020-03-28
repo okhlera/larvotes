@@ -17,4 +17,6 @@ Route::get('/vote/create', function(){
 });
 Route::post('/vote/create', 'VoteController@create');
 Route::get('/', 'VoteController@showAll');
-Route::get('vote/{id?}','VoteController@show');
+Route::get('vote/{id}','VoteController@show');
+Route::get('/vote/positive_inc/{id}', 'VoteController@increasePositive');
+Route::get('/vote/negative_inc/{id}', 'VoteController@increaseNegative');

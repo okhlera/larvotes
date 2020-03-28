@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
 	<!-- Заголовок вкладки -->
-	<title>Голосование - Уточек программистам</title>
+	<title>Голосование</title>
 </head>
 
 <body>
@@ -37,7 +37,7 @@
 					<a href="/"><i class="fa fa-home" aria-hidden="true"></i> Главная</a>
 				</li>
 				<li class="breadcrumb-item active" aria-current="page">
-					Уточек программистам
+				
 				</li>
 			</ol>
 		</div>
@@ -48,7 +48,7 @@
 	<main class="mt-5">
 		<div class="container">
 
-			<h1>Уточек программистам</h1>
+			
 			<hr>
 
 			<div class="card border-info mb-4">
@@ -83,9 +83,6 @@
 				</div>
 			
 			<div>
-				<p>
-					Предлагаю раздавать программистам резиновых уточек бесплатно! Это в разы поднимет качество разрабатываемого ПО во всем мире.
-				</p>
 			</div>
 
 		</div>
